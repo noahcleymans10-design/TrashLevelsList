@@ -118,7 +118,7 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Do not nerf levels, only a record of the unmodified level qualifies. purposefully doing it and hiding it is just as bad as regular cheating.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept them but they will no longer give you points.
