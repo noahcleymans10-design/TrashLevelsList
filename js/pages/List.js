@@ -115,7 +115,7 @@ export default {
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use secret routes or bug routes that let you skip parts or make the level easier.
                     </p>
                     <p>
                         Do not nerf levels, only a record of the unmodified level qualifies. purposefully doing it and hiding it is just as bad as regular cheating.
